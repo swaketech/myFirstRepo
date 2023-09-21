@@ -15,4 +15,4 @@ while True:
 '''
 
 ~~strikethrough~~
-O~2~
+:smile:
