@@ -9,10 +9,10 @@ My first repository!
 2. Item 2
 3. Item 3
 
-'''
+```
 while True:
   print("Hi!")
-'''
+```
 
 ~~strikethrough~~
 :smile:
